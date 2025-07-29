@@ -1,6 +1,6 @@
 # Code for Grid Based Simulation of Pyrazine
 
-This repository provides the Python code supporting the manuscript titled **[Quantum Resource Assay for the Grid-Based Simulation of the Photodynamics of Pyrazine]**, submitted to *Digital Discovery*. 
+This repository provides the Python code supporting the manuscript titled **[Quantum Resource Assay for the Grid-Based Simulation of the Photodynamics of Pyrazine]**. 
 
 ### Repository Contents
 
